@@ -2,7 +2,7 @@ package challenges;
 
 import java.util.Scanner;
 
-public class Uri1020 {
+public class uri_1020 {
 
 	public static void main(String[] args) {
 

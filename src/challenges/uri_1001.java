@@ -2,11 +2,13 @@ package challenges;
 
 import java.util.Scanner;
 
-public class beecrowd1001 {
+public class uri_1001 {
 
 	public static void main(String[] args) {
 
-		 Scanner input = new Scanner(System.in);
+		// Scanner input = new Scanner(System.in);
+		
+		Scanner input = new Scanner(System.in);
 			int A, B, X;
 
 			A = input.nextInt();
